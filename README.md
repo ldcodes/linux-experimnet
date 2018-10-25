@@ -1,2 +1,2 @@
 # linux-experimnet
-coding ls ect
+coding simple ls，cat，cp program，driver and saller proble and a simple web service
